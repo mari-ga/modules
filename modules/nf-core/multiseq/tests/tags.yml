@@ -1,0 +1,2 @@
+multiseq:
+  - "modules/nf-core/multiseq/**"
